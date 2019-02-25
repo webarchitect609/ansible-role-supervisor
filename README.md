@@ -1,3 +1,8 @@
+**Attention!** 
+
+This is a fork of [geerlingguy.supervisor](https://galaxy.ansible.com/geerlingguy/supervisor) role with ["Error installing Supervisor for Python 2 when Ansible use Python 3"](https://github.com/geerlingguy/ansible-role-supervisor/issues/31) fixed. If [corresponding PR is merged](https://github.com/geerlingguy/ansible-role-supervisor/pull/30), just use the original [geerlingguy.supervisor](https://galaxy.ansible.com/geerlingguy/supervisor) instead. 
+
+
 # Ansible Role: Supervisor
 
 [![Build Status](https://travis-ci.org/geerlingguy/ansible-role-supervisor.svg?branch=master)](https://travis-ci.org/geerlingguy/ansible-role-supervisor)
